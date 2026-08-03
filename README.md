@@ -67,7 +67,7 @@ You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) The
 <p align="center">
   <!-- <a href="mailto:benjamin.bigdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> -->
   &nbsp;&nbsp;
-  <a href="https://t.me/@BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <!-- <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a> -->
   &nbsp;&nbsp;
