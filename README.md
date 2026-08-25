@@ -54,10 +54,6 @@ Recognized for system architecture expertise, performance optimization, and disc
 
 You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) There, we can discuss on more comfortable contact way with you.
 
-You can watch the videos of my projects on my YouTube channel.
-
-[<img width="1100" height="650" alt="image (10)" src="https://github.com/user-attachments/assets/2dcd1d89-7741-43a0-b2f4-1072ed1e70e8" />
-](https://www.youtube.com/@BenjaminCup)
 
 <br/>  
 
@@ -74,7 +70,7 @@ You can watch the videos of my projects on my YouTube channel.
   &nbsp;&nbsp;
   <a href="https://t.me/BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <!-- <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a> -->
+  <a href="[https://www.youtube.com/@BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/youtube-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
 </p>
 
