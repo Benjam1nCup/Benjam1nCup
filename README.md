@@ -70,7 +70,7 @@ You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) The
   &nbsp;&nbsp;
   <a href="https://t.me/BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="[https://www.youtube.com/@BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/youtube-logo.png"  width="50" /></a>
+  <a href="https://www.youtube.com/@BenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/youtube-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
 </p>
 
