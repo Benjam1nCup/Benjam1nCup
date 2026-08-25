@@ -54,6 +54,11 @@ Recognized for system architecture expertise, performance optimization, and disc
 
 You can contact me through telegram [@BenjaminCup](https://t.me/BenjaminCup) There, we can discuss on more comfortable contact way with you.
 
+You can watch the videos of my projects on my YouTube channel.
+
+[<img width="1100" height="650" alt="image (10)" src="https://github.com/user-attachments/assets/2dcd1d89-7741-43a0-b2f4-1072ed1e70e8" />
+](https://www.youtube.com/@BenjaminCup)
+
 <br/>  
 
 
